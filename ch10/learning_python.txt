@@ -1,0 +1,2 @@
+In Python you can define classes;
+In Python you can read files;
